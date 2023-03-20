@@ -1,0 +1,27 @@
+.logo{
+  height: 4rem;
+  width: auto;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.mr-8 {
+  margin-right: 2rem;
+}
+.gap-x-16 {
+  column-gap: 16px;
+}
+
+.s-8{
+  
+  height: 2rem;
+  width: 2rem;
+}
+.rounded-full {
+  border-radius: 9999px;
+  border: none;
+  background-color: transparent;
+}
+ul, ol {
+  list-style-type: none;
+}
